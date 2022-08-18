@@ -1,4 +1,4 @@
-package factory.CommandPattern;
+package factory.chainofResponsibility;
 
 /**
  * @Author: Liam
