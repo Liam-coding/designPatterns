@@ -1,6 +1,6 @@
 package factory.factoryMethodPatterns;
 
-import factory.IProduct;
+import factory.sampleFactory.IProduct;
 
 /**
  * @Author: Liam

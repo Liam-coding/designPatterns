@@ -1,7 +1,7 @@
 package factory.factoryMethodPatterns;
 
-import factory.BProduct;
-import factory.IProduct;
+import factory.sampleFactory.BProduct;
+import factory.sampleFactory.IProduct;
 
 /**
  * @Author: Liam
